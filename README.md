@@ -24,6 +24,12 @@ Monday 12th November 2018
 
 # historyoftype
 
-Monday 12th November
+Monday 12th November 2018
 
 [History of Type 2](https://larissaixd.github.io/johnbaskerville/historyoftype2.html) added second HTML. 
+
+# historyoftype
+
+Monday 12th November 2018
+
+[History of Type 3](https://larissaixd.github.io/johnbaskerville/historyoftype3.html) added third HTML. 
