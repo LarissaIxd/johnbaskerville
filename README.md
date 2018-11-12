@@ -21,3 +21,9 @@ Friday 9th November 2018
 Monday 12th November 2018
 
 [John Baskerville 3](https://larissaixd.github.io/johnbaskerville/baskerville3.html) added third HTML.
+
+# historyoftype
+
+Monday 12th November
+
+[History of Type 2](https://larissaixd.github.io/johnbaskerville/historyoftype2.html) added second HTML. 
