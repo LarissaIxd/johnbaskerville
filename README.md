@@ -33,3 +33,15 @@ Monday 12th November 2018
 Monday 12th November 2018
 
 [History of Type 3](https://larissaixd.github.io/johnbaskerville/historyoftype3.html) added third HTML. 
+
+# johnbaskerville
+
+Monday 19th November 2018
+
+[John Baskerville 4](https://larissaixd.github.io/johnbaskerville/baskerville4.html) added css.
+
+# historyoftype
+
+Monday 19th November 2018
+
+[History of Type 4](https://larissaixd.github.io/johnbaskerville/historyoftype4.html) added css.
