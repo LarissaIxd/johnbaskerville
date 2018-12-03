@@ -15,6 +15,7 @@ body {
     margin: auto;
     background: #ecf4f3;
     color: #555151;
+    font-family: 'Libre Baskerville', serif;
 }
 
 H1,H2,H3 {
@@ -124,6 +125,38 @@ img {
     max-width: 100%
 }
 
+/* ---------- TABLE ---------- */
+
+table {
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+}
+
+caption {
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+th {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #c06;
+}
+
+th, td {
+    padding: .8em;
+}
+
+table, td {
+    background: #d1d1d1;
+    border: 2px solid #fff;
+}
+
 /* ---------- FOOTER ---------- */
 
 footer {
@@ -139,4 +172,38 @@ hr {
     background-color: #57a99a;
     color: #57a99a;
     border: 0 none
+}
+
+.connection {
+    position: relative;
+    margin: 0 auto;
+    margin: 20px, 0;
+}
+
+.connections ul {
+    margin: 0;
+    padding: 0;
+}
+
+connections li {
+    margin: 0 15px;
+    padding: 0 ;
+    list-style: none;
+    display: none;
+}
+
+.connections a:link {
+    border-bottom: none;
+}
+
+.connections img {
+    opacity: 0.5;
+    border: none;
+}
+
+.connections a:hover img {
+    opacity: 1.0;
+    border-bottom: none;
+    transition: all 0.3s ease-in-out;
+    transform:scale(1.1);
 }
