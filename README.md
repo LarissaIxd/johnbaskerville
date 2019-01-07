@@ -69,3 +69,9 @@ Monday 3rd December 2018
 Monday 3rd December 2018
 
 [History of Type 5](https://larissaixd.github.io/johnbaskerville/historyoftype5.html) Added table and images.
+
+# Jessicahische
+
+Monday 7th January 2019
+
+[Jessica Hische](https://larissaixd.github.io/jessicahische/jessicahische.html) created.

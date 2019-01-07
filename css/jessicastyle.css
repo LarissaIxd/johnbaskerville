@@ -1,0 +1,209 @@
+/* ------ CSS RESET ------ */
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+
+/* ---------- MAIN STYLING ---------- */
+
+body {
+    width: 75%;
+    max-width: 670px;
+    margin: auto;
+    background: #fefcdb;
+    color: #555151;
+    font-family: 'Libre Baskerville', serif;
+}
+
+H1,H2,H3 {
+    font-weight: normal;
+    color: #f05a28;
+    text-align: center;
+}
+
+p, li, blockquote {
+    margin-bottom: 1.5em;
+    line-height: 1.4
+}
+
+h1 {
+    font-size: 3.998em;
+    margin-top: 1em;
+    margin-bottom: 0.1em;
+}
+
+h2 {
+    font-size: 2.827em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+h3 {
+    font-size: 1.999em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+blockquote {
+    hanging-punctuation: first;
+    text-indent: -0.5em
+}
+
+header h3 {
+    font-style: italic;
+    font-size: 2.35em;
+    margin-top: 0.1em;
+}
+
+/* ---------- STYLING LINKS ----------*/
+
+a {
+    color: #f05a28;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    border-bottom: 1px dotted;
+}
+
+/* ---------- NAVIGATION ---------- */
+
+nav {
+    position:fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #f7931e;
+    padding: 1em 0;
+    font-size: 0.75em
+}
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px
+}
+
+nav a:link {
+    color: #57a99a;
+}
+
+nav a:hover {
+    border-bottom: none;
+    color: white;
+}
+
+/* ---------- BLOCKQUOTE ---------- */
+
+blockquote {
+    padding: 1em 0;
+    font-size: 1.75em;
+    line-height: 1.3;
+    color: #f05a28
+}
+
+blockquote cite {
+    font-size: 0.75em
+}
+
+/* ---------- IMAGES -------- */
+
+img {
+    display: block;
+    margin: 1em auto;
+    padding: 0;
+    max-width: 100%
+}
+
+/* ---------- TABLE ---------- */
+
+table {
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+}
+
+caption {
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+th {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #c06;
+}
+
+th, td {
+    padding: .8em;
+}
+
+table, td {
+    background: #d1d1d1;
+    border: 2px solid #fff;
+}
+
+/* ---------- FOOTER ---------- */
+
+footer {
+    text-align: center;
+    font-size: 0.75em;
+    line-height: 1.5em;
+    padding: 2em 0
+}
+
+hr {
+    margin: 1em 0;
+    height: 1px;
+    background-color: #f05a28;
+    color: #57a99a;
+    border: 0 none
+}
+
+.connection {
+    position: relative;
+    margin: 0 auto;
+    margin: 20px, 0;
+}
+
+.connections ul {
+    margin: 0;
+    padding: 0;
+}
+
+connections li {
+    margin: 0 15px;
+    padding: 0 ;
+    list-style: none;
+    display: inline-block;
+}
+
+.connections a:link {
+    border-bottom: none;
+}
+
+.connections img {
+    opacity: 0.5;
+    border: none;
+}
+
+.connections a:hover img {
+    opacity: 1.0;
+    border-bottom: none;
+    transition: all 0.3s ease-in-out;
+    transform:scale(1.1);
+}
